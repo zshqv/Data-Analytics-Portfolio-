@@ -134,3 +134,7 @@ INSERT INTO fraud_alerts (alert_id, txn_id, alert_type, severity, status) VALUES
 (3, 22, 'High Value Txn', 'High', 'Open'),
 (4, 23, 'Excess Refunds', 'Medium', 'Open'),
 (5, 21, 'High Value Txn', 'High', 'Closed');
+
+
+git rm /r myData-Analytics-Portfolio
+
